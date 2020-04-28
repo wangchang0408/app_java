@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="service_caller:war">
+    <output-path>$PROJECT_DIR$/service_caller/target</output-path>
+    <root id="archive" name="service_caller-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="service_caller:war exploded" />
+    </root>
+  </artifact>
+</component>
